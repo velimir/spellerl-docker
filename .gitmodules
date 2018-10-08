@@ -1,0 +1,3 @@
+[submodule "spellerl"]
+	path = spellerl
+	url = https://github.com/velimir0xff/spellerl.git
