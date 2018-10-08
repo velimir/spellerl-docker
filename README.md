@@ -6,7 +6,7 @@ Dockerized command line interface for [spellerl](https://github.com/velimir0xff/
 Clone
 -----
 
-    $ git clone --recurse-submodules -j8 git://github.com/velimir0xff/spellerl-docker.git
+    $ git clone --recurse-submodules git://github.com/velimir0xff/spellerl-docker.git
 
 Build
 -----
